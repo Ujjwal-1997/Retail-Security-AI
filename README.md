@@ -29,3 +29,7 @@ This project leverages **Microsoft Azure Custom Vision AI** to build and deploy 
    Exported the trained model and integrated it into a video processing pipeline that analyzes recorded surveillance feeds. The system flags potential knife detections and generates real-time alerts.
 
 ---
+
+## Model Performance
+**model evaluated on limited dataset, performance can be improved by enhancing training data**
+<img width="1172" height="635" alt="Screenshot 2025-08-11 at 5 24 08 PM" src="https://github.com/user-attachments/assets/335ba56c-b702-49af-87e6-86a1c4268542" />
